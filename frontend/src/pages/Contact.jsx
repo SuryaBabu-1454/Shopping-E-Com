@@ -16,7 +16,7 @@ const Contact = () => {
           <p className='text-gray-500'> No.7 Lakshmi Nagar <br />Chennai -095, INDIA</p>
           <p className='text-gray-500'>Tel: (+91) 9344447833 <br /> Email: admin@forever.com</p>
           <p className='font-semibold text-xl text-gray-600'>Careers at Forever</p>
-          <p className='text-gray-500'> LEarn more  about our teams and job openings.</p>
+          <p className='text-gray-500'> Learn more  about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>
       </div>

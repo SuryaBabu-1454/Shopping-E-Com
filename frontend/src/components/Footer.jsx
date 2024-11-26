@@ -6,7 +6,7 @@ const Footer = () => {
     <>
     <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
        <div>
-          <img src={assets.logo} alt="" className='mb-5 w-32' />
+          <img src={assets.logo} alt="" className='mb-5 w-36' />
           <p className='w-full md:w-2/3 text-gray-600'>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas quidem animi aut repudiandae et optio quasi est! Laudantium, magnam omnis.
           </p>
@@ -26,7 +26,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
             <li>+91 930009834</li>
-            <li>contact@forever.com</li>
+            <li>contact@fashionforever.com</li>
           </ul>
         </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
     </div>
             <div>
             <hr />
-            <p className="py-5 text-sm text-center">Copyrights 2024 @forever.com -All Rights Reserved</p>
+            <p className="py-5 text-sm text-center">Copyrights 2024 @fashionforward.com -All Rights Reserved</p>
           </div>
           </>
   )
